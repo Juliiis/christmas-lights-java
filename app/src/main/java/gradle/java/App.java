@@ -4,11 +4,14 @@
 package gradle.java;
 
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
+
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        /* ChristmasLights luces = new ChristmasLights();
+
+        System.out.println("------");
+        System.out.println(luces.toggleGrid(0,0,2,2));*/
+
     }
+
 }
